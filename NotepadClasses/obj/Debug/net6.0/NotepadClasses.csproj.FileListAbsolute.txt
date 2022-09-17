@@ -1,0 +1,12 @@
+C:\Users\Jerrod\source\repos\MyPractice\FibonacciNotepad\FibonacciNotepad\ClassLibrary1\bin\Debug\net6.0\NotepadClasses.deps.json
+C:\Users\Jerrod\source\repos\MyPractice\FibonacciNotepad\FibonacciNotepad\ClassLibrary1\bin\Debug\net6.0\NotepadClasses.dll
+C:\Users\Jerrod\source\repos\MyPractice\FibonacciNotepad\FibonacciNotepad\ClassLibrary1\bin\Debug\net6.0\NotepadClasses.pdb
+C:\Users\Jerrod\source\repos\MyPractice\FibonacciNotepad\FibonacciNotepad\ClassLibrary1\obj\Debug\net6.0\NotepadClasses.csproj.AssemblyReference.cache
+C:\Users\Jerrod\source\repos\MyPractice\FibonacciNotepad\FibonacciNotepad\ClassLibrary1\obj\Debug\net6.0\NotepadClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerrod\source\repos\MyPractice\FibonacciNotepad\FibonacciNotepad\ClassLibrary1\obj\Debug\net6.0\NotepadClasses.AssemblyInfoInputs.cache
+C:\Users\Jerrod\source\repos\MyPractice\FibonacciNotepad\FibonacciNotepad\ClassLibrary1\obj\Debug\net6.0\NotepadClasses.AssemblyInfo.cs
+C:\Users\Jerrod\source\repos\MyPractice\FibonacciNotepad\FibonacciNotepad\ClassLibrary1\obj\Debug\net6.0\NotepadClasses.csproj.CoreCompileInputs.cache
+C:\Users\Jerrod\source\repos\MyPractice\FibonacciNotepad\FibonacciNotepad\ClassLibrary1\obj\Debug\net6.0\NotepadClasses.dll
+C:\Users\Jerrod\source\repos\MyPractice\FibonacciNotepad\FibonacciNotepad\ClassLibrary1\obj\Debug\net6.0\refint\NotepadClasses.dll
+C:\Users\Jerrod\source\repos\MyPractice\FibonacciNotepad\FibonacciNotepad\ClassLibrary1\obj\Debug\net6.0\NotepadClasses.pdb
+C:\Users\Jerrod\source\repos\MyPractice\FibonacciNotepad\FibonacciNotepad\ClassLibrary1\obj\Debug\net6.0\ref\NotepadClasses.dll

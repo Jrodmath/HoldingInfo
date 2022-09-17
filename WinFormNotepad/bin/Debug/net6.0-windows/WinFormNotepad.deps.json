@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinFormNotepad/1.0.0": {
+        "dependencies": {
+          "NotepadClasses": "1.0.0"
+        },
+        "runtime": {
+          "WinFormNotepad.dll": {}
+        }
+      },
+      "NotepadClasses/1.0.0": {
+        "runtime": {
+          "NotepadClasses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormNotepad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NotepadClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
